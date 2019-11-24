@@ -31,6 +31,8 @@ vagrant up
 maven install
 /home/vagrant/.m2/settings-security-test.xml: No such file or directory
 
+Where to get Mulesoft installs
+http://www.acesoa.com/2019/01/24/anypoint-studio-all-installation-binaries/
 
 ## Base instances / Refs
 https://app.vagrantup.com/peru/boxes/ubuntu-18.04-desktop-amd64
