@@ -27,8 +27,12 @@ cd vagrant
 vagrant up
 ```
 
-## Base instances / Refs
+## Fixes needed
+maven install
+/home/vagrant/.m2/settings-security-test.xml: No such file or directory
 
-https://atlas.hashicorp.com/boxcutter/boxes/ubuntu1610-desktop
+
+## Base instances / Refs
+https://app.vagrantup.com/peru/boxes/ubuntu-18.04-desktop-amd64
 
 Packer - vagrant https://www.packer.io/intro/getting-started/vagrant.html
